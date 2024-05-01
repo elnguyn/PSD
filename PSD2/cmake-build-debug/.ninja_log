@@ -1,0 +1,24 @@
+# ninja log v5
+20	769	7362446675628564	CMakeFiles/untitled.dir/main.cpp.obj	7d2aabbe19080c49
+3	426	7362572064167828	build.ninja	e69baa88dfc72f67
+30	1053	7362429389423843	CMakeFiles/untitled.dir/Food.cpp.obj	153a009f6b02b2ff
+583	772	7362448209366196	untitled.exe	5b9cc69fdf134862
+4	783	7362446675777978	CMakeFiles/untitled.dir/Manager.cpp.obj	fc1d0efd4b223469
+7	716	7362442313343655	CMakeFiles/untitled.dir/CoffeeMaker.cpp.obj	751d9f8df56e1c73
+14	795	7362429798996562	CMakeFiles/untitled.dir/FoodMaker.cpp.obj	b45cf3ee581492b2
+3	583	7362448207522888	CMakeFiles/untitled.dir/Host.cpp.obj	fb9fc97ce45ab607
+4	700	7362447489826942	CMakeFiles/untitled.dir/Order.cpp.obj	d0d5f4120130b275
+5	1054	7362429389413821	CMakeFiles/untitled.dir/BlackCoffee.cpp.obj	4ca23d9df3af41d6
+11	1050	7362429389418830	CMakeFiles/untitled.dir/WhiteCoffee.cpp.obj	cca242e9cadfc63e
+22	1052	7362429389403826	CMakeFiles/untitled.dir/Drink.cpp.obj	52a1693b6e4ab6e1
+29	923	7362572095760022	CMakeFiles/untitled.dir/Drink.cpp.obj	52a1693b6e4ab6e1
+13	1342	7362572099972281	CMakeFiles/untitled.dir/FoodMaker.cpp.obj	b45cf3ee581492b2
+22	1419	7362572100115182	CMakeFiles/untitled.dir/CoffeeMaker.cpp.obj	751d9f8df56e1c73
+38	1428	7362572100563958	CMakeFiles/untitled.dir/Host.cpp.obj	fb9fc97ce45ab607
+2	1469	7362572101093735	CMakeFiles/untitled.dir/Manager.cpp.obj	fc1d0efd4b223469
+76	1680	7362572103396733	CMakeFiles/untitled.dir/Order.cpp.obj	d0d5f4120130b275
+925	1838	7362572104981661	CMakeFiles/untitled.dir/Food.cpp.obj	153a009f6b02b2ff
+1419	2067	7362572107273204	CMakeFiles/untitled.dir/BlackCoffee.cpp.obj	4ca23d9df3af41d6
+1429	2110	7362572107718162	CMakeFiles/untitled.dir/WhiteCoffee.cpp.obj	cca242e9cadfc63e
+1342	2175	7362572108372112	CMakeFiles/untitled.dir/main.cpp.obj	7d2aabbe19080c49
+2176	2464	7362572111202409	untitled.exe	5b9cc69fdf134862
